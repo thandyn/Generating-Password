@@ -11,3 +11,5 @@ This is generating a number for us to take in the arrays.
 
 [alt text](/images/ss3.PNG)
 Here is where we take user's input and the code checks if whatever user picks, the type of characters will be included into the password and generate the user a password. 
+
+https://thandyn.github.io/Generating-Password/
